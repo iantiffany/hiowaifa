@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aingeivai.kenglish.co/sitemap.xml
